@@ -31,4 +31,4 @@ Here's a breakdown of the data structures and OOP concepts used in the provided 
 6. **Method Invocation**:
     - Methods of the `BankAccount` class (e.g., `deposit()`, `withdraw()`, `authenticate()`, `getBalance()`) are invoked based on user input and program logic to perform various operations on bank accounts.
 
-Overall, the code demonstrates principles of object-oriented programming by encapsulating related functionality within the `BankAccount` class and using data structures for managing collections of bank accounts efficiently.
+In conclusion, the code demonstrates principles of object-oriented programming by encapsulating related functionality within the `BankAccount` class and using data structures for managing collections of bank accounts efficiently.
